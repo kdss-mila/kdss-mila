@@ -42,7 +42,7 @@
 
 <div align="left">
   <a href="https://equipejobs-zlacademy.blogspot.com"> <img src="https://img.shields.io/badge/Blogger-F57D00?style=for-the-badge&logo=blogger&logoColor=white" height="35" alt="blogger logo" /></a>
-  <a href = "mailto:equipejobs.zl@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  /></a>
+  <a href = "mailto:mila.kdss@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  /></a>
   <a href = "https://www.linkedin.com/groups/9862240/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 
 </div>
